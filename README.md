@@ -20,4 +20,10 @@ My Gmail [#tanmaymakode76@gmail.com]
 My LinkedIn [#https://www.linkedin.com/in/tanmay-m-1ab07b1b6/]
 
 
+─────█─▄▀█──█▀▄─█─────
+────▐▌──────────▐▌────
+────█▌▀▄──▄▄──▄▀▐█────
+───▐██──▀▀──▀▀──██▌───
+──▄████▄──▐▌──▄████▄──
+
 
