@@ -8,7 +8,7 @@
 ## Skills
 * 💻 [Programming](#Programming)    
 * 🚀 [GameDeveloper](#GameDeveloper)           
-* 🎨 [2D Artist](#2D Artist)
+* 🎨 [2D Artist] (#2D Artist)
 * ☄️ [3D Artist](#3D Artist)
 
 
