@@ -1,11 +1,6 @@
 ### Hi there 👋
 
 <!--
-**IndieD3v/IndieD3v** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-[![Website](https://img.shields.io/website?label=.com&style=for-the-badge&url=https%3A%2F%2FStralightgames)](https://www.instagram.com/starlightgames_/)
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -15,7 +10,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### Hi there, I'm Jesse - aka [codeSTACKr][website] 👋
+
 
 
 
