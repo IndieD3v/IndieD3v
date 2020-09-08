@@ -1,18 +1,15 @@
-## Hi there 👋
+### Hi there 👋
 
 - 🔭 I’m currently working on a Game
 - 🌱 I’m currently learning Python
 - 👯 I’m looking to collaborate on Projects
 - 📫 How to reach me: Check the Links Below 
 
-# Project Name
-> Here goes your awesome project description!
-
 ## Skills
 * [Programming](#Programming)    
 * [GameDeveloper](#GameDeveloper)           
-* [GameDeveloper](#GameDeveloper)
-* [GameDeveloper](#GameDeveloper)
+* [3D Artist](#3D Artist)
+* [2D Artist](#2D Artist)
 
 
 ## Contact
