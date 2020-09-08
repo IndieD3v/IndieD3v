@@ -27,6 +27,3 @@
 
 
 
-<p style="color:hsl(240,100%,50%);">You can change the text color of a whole sentence or paragraph...</p>
-<p>...or you can change the text color of one <span style="color:hsl(240,100%,50%);">word</span> or even a single l<span style="hsl(240,100%,50%);">e</span>tter.</p>
-
