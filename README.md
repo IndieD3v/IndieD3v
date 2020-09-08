@@ -9,16 +9,17 @@
 > Here goes your awesome project description!
 
 ## Skills
-* [Programming](#Programming)    #Languages * [Python](#Python)
-* [GameDeveloper](#GameDeveloper)           * [C#]()
-* [2D Artist](#2D Artist)                   * #Learning Everyday
-* [3D Artist](#3D Artist)
-* [Fast Learner](#Fast Learner)
+* [Programming](#Programming)    
+* [GameDeveloper](#GameDeveloper)           
+* [GameDeveloper](#GameDeveloper)
+* [GameDeveloper](#GameDeveloper)
 
 
 ## Contact
-My Instagram (#https://www.instagram.com/starlightgames_/) - feel free to contact me!
+My Instagram (#https://www.instagram.com/starlightgames_/) 
+
 My Gmail [#tanmaymakode76@gmail.com]
+
 My LinkedIn [#https://www.linkedin.com/in/tanmay-m-1ab07b1b6/]
 
 
