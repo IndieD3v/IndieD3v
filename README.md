@@ -7,9 +7,9 @@
 
 ## Skills
 * 💻 [Programming](#Programming)    
-* 🚀 GameDeveloper](#GameDeveloper)           
-* 🎨 3D Artist](#3D Artist)
-* ☄️ 2D Artist](#2D Artist)
+* 🚀 [GameDeveloper](#GameDeveloper)           
+* 🎨 [3D Artist](#3D Artist)
+* ☄️ [2D Artist](#2D Artist)
 
 
 ## Contact
@@ -19,14 +19,5 @@ My Gmail [#tanmaymakode76@gmail.com]
 
 My LinkedIn [#https://www.linkedin.com/in/tanmay-m-1ab07b1b6/]
 
-
-
-┈┈┈┈┈┈▕▔╲┈┈┈┈┈┈
-┈┈┈┈┈┈┈▏▕┈ⓈⓊⓅⒺⓇ
-┈┈┈┈┈┈┈▏▕▂▂▂┈┈┈
-▂▂▂▂▂▂╱┈▕▂▂▂▏┈┈
-▉▉▉▉▉┈┈┈▕▂▂▂▏┈┈
-▉▉▉▉▉┈┈┈▕▂▂▂▏┈┈
-▔▔▔▔▔▔╲▂▕▂▂▂▏┈┈
 
 
