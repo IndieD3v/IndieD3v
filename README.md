@@ -1,7 +1,7 @@
 # Welcome <img src="https://img.icons8.com/fluent/50/000000/github.png"/>
 
 - 🔭 I’m currently working on a Game
--  I’m currently learning Python
+- <img src="https://img.icons8.com/fluent/48/000000/controller.png"/> I’m currently learning Python
 - 👯 I’m looking to collaborate on Projects
 - 📫 How to reach me: Check the Links Below 
 
