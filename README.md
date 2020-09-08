@@ -1,7 +1,7 @@
 # Welcome ❤️
 
 - 🔭 I’m currently working on a Game
--  I’m currently learning Python
+- <img src="https://img.icons8.com/dusk/64/000000/python.png"/> I’m currently learning Python
 - 👯 I’m looking to collaborate on Projects
 - 📫 How to reach me: Check the Links Below 
 
