@@ -6,10 +6,10 @@
 - 📫 How to reach me: Check the Links Below 
 
 ## Skills
-* 💻 [Programming](#Programming)    
-* 🚀 [GameDeveloper](#GameDeveloper)           
-* 🎨 [2D Artist] (#2D Artist)
-* ☄️ [3D Artist](#3D Artist)
+* 💻 Programming    
+* 🚀 GameDeveloper         
+* 🎨 2D Artist 
+* ☄️ 3D Artist
 
 
 ## Contact
