@@ -13,9 +13,9 @@
 
 ## Programming Languages
    
-   <img src="https://img.icons8.com/dusk/64/000000/python.png"/>
+   <img src="https://img.icons8.com/dusk/64/000000/python.png"/>  # Python
    
-   <img src="https://img.icons8.com/dusk/64/000000/cs.png"/>
+   <img src="https://img.icons8.com/dusk/64/000000/cs.png"/>      # C#
    
 ## Contact
 My Instagram (#https://www.instagram.com/starlightgames_/) 
