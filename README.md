@@ -1,7 +1,7 @@
 # Welcome ❤️
 
 - 🔭 I’m currently working on a Game
-- <img src="https://img.icons8.com/dusk/64/000000/python.png"/> I’m currently learning Python
+-  I’m currently learning Python
 - 👯 I’m looking to collaborate on Projects
 - 📫 How to reach me: Check the Links Below 
 
@@ -11,7 +11,12 @@
 * 🎨 2D Artist 
 * ☄️ 3D Artist
 
-
+## Programming Languages
+   
+   <img src="https://img.icons8.com/dusk/64/000000/python.png"/>
+   
+   <img src="https://img.icons8.com/dusk/64/000000/cs.png"/>
+   
 ## Contact
 My Instagram (#https://www.instagram.com/starlightgames_/) 
 
