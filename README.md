@@ -1,4 +1,4 @@
-# Welcome ❤️  <img src="https://img.icons8.com/fluent/50/000000/github.png"/>
+# Welcome <img src="https://img.icons8.com/fluent/50/000000/github.png"/>
 
 - 🔭 I’m currently working on a Game
 -  I’m currently learning Python
