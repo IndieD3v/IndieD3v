@@ -27,3 +27,4 @@
 
 
 
+<p class="text-primary">.text-primary</p>
