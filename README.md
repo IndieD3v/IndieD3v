@@ -1,4 +1,4 @@
-# Welcome To In Dev Github Page 👨
+# Welcome To In Dev Github Page ❤️
 
 - 🔭 I’m currently working on a Game
 -  I’m currently learning Python
@@ -7,7 +7,7 @@
 
 ## Skills
 * 💻 Programming    
-* 🚀 GameDeveloper         
+* 🎮 GameDeveloper         
 * 🎨 2D Artist 
 * ☄️ 3D Artist
 
@@ -17,19 +17,7 @@ My Instagram (#https://www.instagram.com/starlightgames_/)
 
 My Gmail [#tanmaymakode76@gmail.com]
 
-My LinkedIn [#https://www.linkedin.com/in/tanmay-m-1ab07b1b6/]
+My LinkedIn [#https://www.linkedin.com/in/tanmay-m-1ab07b1b6/
 
-
-─────█─▄▀█──█▀▄─█─────
-────▐▌──────────▐▌────
-────█▌▀▄──▄▄──▄▀▐█────
-───▐██──▀▀──▀▀──██▌───
-──▄████▄──▐▌──▄████▄──
-
-
-
-
-
-
-
+#🎲
 
