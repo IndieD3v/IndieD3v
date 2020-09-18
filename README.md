@@ -9,7 +9,7 @@
 * 💻 Programming    
 * 🎮 GameDevelopment         
 * 🎨 2D Artist 
-* > ☄️ 3D Artist
+> ☄️ 3D Artist
 
 ## Programming Languages
 
