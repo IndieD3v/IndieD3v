@@ -11,13 +11,11 @@
 * 🎨 2D Artist 
 * ☄️ 3D Artist
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=indieD3v)](https://github.com/indieD3v/github-readme-stats)
-
 ## Programming Languages
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=indieD3v)](https://github.com/indieD3v/github-readme-stats)
    
-   <img src="https://img.icons8.com/dusk/64/000000/python.png"/> 
    
-   <img src="https://img.icons8.com/dusk/64/000000/cs.png"/>      
    
 ## Contact
 <img src="https://img.icons8.com/cute-clipart/64/000000/instagram-new.png"/>      # https://www.instagram.com/starlightgames_/
