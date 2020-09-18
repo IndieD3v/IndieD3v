@@ -11,6 +11,8 @@
 * 🎨 2D Artist 
 * ☄️ 3D Artist
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=indieD3v)](https://github.com/indieD3v/github-readme-stats)
+
 ## Programming Languages
    
    <img src="https://img.icons8.com/dusk/64/000000/python.png"/> 
@@ -18,12 +20,12 @@
    <img src="https://img.icons8.com/dusk/64/000000/cs.png"/>      
    
 ## Contact
-<img src="https://img.icons8.com/cute-clipart/64/000000/instagram-new.png"/>      # (https://www.instagram.com/starlightgames_/) 
+<img src="https://img.icons8.com/cute-clipart/64/000000/instagram-new.png"/>      # https://www.instagram.com/starlightgames_/
 
-<img src="https://img.icons8.com/plasticine/64/000000/gmail.png"/>         # [tanmaymakode76@gmail.com]
+<img src="https://img.icons8.com/plasticine/64/000000/gmail.png"/>         # tanmaymakode76@gmail.com
 
 
-<img src="https://img.icons8.com/dusk/64/000000/linkedin.png"/>      # (https://www.linkedin.com/in/tanmay-m-1ab07b1b6/)
+<img src="https://img.icons8.com/dusk/64/000000/linkedin.png"/>      # https://www.linkedin.com/in/tanmay-m-1ab07b1b6/
 
 
 
