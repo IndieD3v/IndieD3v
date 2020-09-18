@@ -18,7 +18,7 @@
 
 ## Git Hub Stats
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=indieD3v&show_icons=true&theme=graywhite)](https://github.com/indieD3v/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=indieD3v&show_icons=true&theme=buefy)](https://github.com/indieD3v/github-readme-stats)
    
    
 ## Contact
