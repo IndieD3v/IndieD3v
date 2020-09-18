@@ -23,7 +23,7 @@
 
 
 
-<img src="https://img.icons8.com/dusk/64/000000/linkedin.png"/>      # https://www.linkedin.com/in/tanmay-m-1ab07b1b6/
+<img href="https://www.linkedin.com/in/tanmay-m-1ab07b1b6/" src="https://img.icons8.com/dusk/64/000000/linkedin.png"/>      # https://www.linkedin.com/in/tanmay-m-1ab07b1b6/
 
 
 
