@@ -15,7 +15,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=indieD3v)](https://github.com/indieD3v/github-readme-stats)
 
-
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=indieD3v&repo=github-readme-stats)](https://github.com/indieD3v/github-readme-stats)
 ## Git Hub Stats
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=indieD3v&show_icons=true&theme=buefy)](https://github.com/indieD3v/github-readme-stats)
