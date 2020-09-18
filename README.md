@@ -18,13 +18,13 @@
    
    
 ## Contact
-<a href="https://www.instagram.com/starlightgames_/"><img src="https://img.icons8.com/cute-clipart/64/000000/instagram-new.png"/></a>      # https://www.instagram.com/starlightgames_/  
-<img src="https://img.icons8.com/plasticine/64/000000/gmail.png"/>         # tanmaymakode76@gmail.com
+<a href="https://www.instagram.com/starlightgames_/"><img src="https://img.icons8.com/cute-clipart/64/000000/instagram-new.png"/></a>      #https://www.instagram.com/starlightgames_/  
+<a href="www.gmail.com"><img src="https://img.icons8.com/plasticine/64/000000/gmail.png"/></a>         # tanmaymakode76@gmail.com
 
 
 
 
-<img href="https://www.linkedin.com/in/tanmay-m-1ab07b1b6/" src="https://img.icons8.com/dusk/64/000000/linkedin.png"/>      # https://www.linkedin.com/in/tanmay-m-1ab07b1b6/
+<a href="https://www.linkedin.com/in/tanmay-m-1ab07b1b6/"><img src="https://img.icons8.com/dusk/64/000000/linkedin.png"/></a>     
 
 
 
