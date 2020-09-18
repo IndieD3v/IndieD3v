@@ -18,7 +18,8 @@
    
    
 ## Contact
-<img src="https://img.icons8.com/cute-clipart/64/000000/instagram-new.png"/>      # https://www.instagram.com/starlightgames_/        <img src="https://img.icons8.com/plasticine/64/000000/gmail.png"/>         # tanmaymakode76@gmail.com
+<img src="https://img.icons8.com/cute-clipart/64/000000/instagram-new.png"href="https://www.instagram.com/starlightgames_/"/>      # https://www.instagram.com/starlightgames_/  
+<img src="https://img.icons8.com/plasticine/64/000000/gmail.png"/>         # tanmaymakode76@gmail.com
 
 
 
