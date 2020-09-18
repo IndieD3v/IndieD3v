@@ -6,9 +6,9 @@
 - 📫 How to reach me: Check the Links Below 
 
 ## Skills
-* 💻 Programming    
-* 🎮 GameDevelopment         
-* 🎨 2D Artist 
+> 💻 Programming    
+> 🎮 GameDevelopment         
+> 🎨 2D Artist 
 > ☄️ 3D Artist
 
 ## Programming Languages
