@@ -7,7 +7,7 @@
 
 ## Skills
 * 💻 Programming    
-* 🎮 GameDeveloper         
+* 🎮 GameDevelopment         
 * 🎨 2D Artist 
 * ☄️ 3D Artist
 
@@ -16,9 +16,9 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=indieD3v)](https://github.com/indieD3v/github-readme-stats)
 
 
-##Git Hub Stats
+## Git Hub Stats
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=indieD3v)](https://github.com/indieD3v/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=indieD3v&show_icons=true)](https://github.com/indieD3v/github-readme-stats)
    
    
 ## Contact
