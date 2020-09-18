@@ -1,4 +1,4 @@
-<div <a class=".bg-gray-dark">class=".bg-gray-dark">
+
 # Welcome <img src="https://img.icons8.com/fluent/50/000000/github.png"/>
 
 - 🔭 **I’m currently working on a Game**
@@ -24,7 +24,6 @@
    
 ## Contact
 <a href="https://www.instagram.com/starlightgames_/"><img src="https://img.icons8.com/cute-clipart/64/000000/instagram-new.png"/></a>       <a href="https://mail.google.com/"><img src="https://img.icons8.com/plasticine/64/000000/gmail.png"/></a> <a href="https://www.linkedin.com/in/tanmay-m-1ab07b1b6/"><img src="https://img.icons8.com/dusk/64/000000/linkedin.png"/></a>     
-</a>
-</div>
+
 
 
