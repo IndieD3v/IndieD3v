@@ -1,9 +1,7 @@
 
 # Welcome <img src="https://img.icons8.com/fluent/50/000000/github.png"/>
 
-   <div class="text-blue mb-2">
-      .text-blue on white
-   </div>
+
 - 🔭 **I’m currently working on a Game**
 - 💻 **I’m currently learning Python**
 - 👯 **I’m looking to collaborate on Projects**
