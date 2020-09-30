@@ -23,7 +23,7 @@
    
 ## Contact
 <a href="https://www.instagram.com/code.forever/"><img src="https://img.icons8.com/cute-clipart/64/000000/instagram-new.png"/></a>       <a href="https://mail.google.com/"><img src="https://img.icons8.com/plasticine/64/000000/gmail.png"/></a> 
-<a href="https://discord.com/channels/@StarlightGames_"> <img src="https://img.icons8.com/color/48/000000/discord-new-logo.png"/></a>
+<a href="https://discord.com/channels/@StarlightGames_"> <img src="https://img.icons8.com/fluent/48/000000/discord-logo.png"/></a>
 
 
 
