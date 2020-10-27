@@ -4,7 +4,7 @@
 - 💻 **I’m currently learning Django**                                                  
 - 👯 **I’m looking to collaborate on Projects**
 - 📫 **How to reach me: Check the Links Below**  
-                                                                             <imgsrc='https://media.giphy.com/media/h408T6Y5GfmXBKW62l/giphy.gif'></img>
+                                                                             <img src='https://media.giphy.com/media/h408T6Y5GfmXBKW62l/giphy.gif'></img>
 ## Skills
 * 💻 **Programming**    
 * 🎮 **GameDevelopment**         
