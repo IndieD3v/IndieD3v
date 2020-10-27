@@ -6,7 +6,7 @@
 - 📫 **How to reach me: Check the Links Below**  
                                                                              
 ## Skills
-* 💻 **Programming**    
+* 💻 **Programming**                                                                        <img src='https://media.giphy.com/media/Bp1hRvzni1hjyIoJpv/giphy.gif'/>
 * 🎮 **GameDevelopment**         
 * 🎨 **2D Artist** 
 * ☄️ **3D Artist**
@@ -27,4 +27,4 @@
 
 
 
-   <img src='https://media.giphy.com/media/Xb7PgvaatFKe5U5f6M/giphy.gif'/>
+   
