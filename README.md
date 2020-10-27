@@ -1,10 +1,10 @@
 
 # Welcome <img src="https://img.icons8.com/fluent/50/000000/github.png"/>
 
-- 💻 **I’m currently learning Django**                                          <img src='https://media.giphy.com/media/h408T6Y5GfmXBKW62l/giphy.gif'></img>          
+- 💻 **I’m currently learning Django**                                                  
 - 👯 **I’m looking to collaborate on Projects**
 - 📫 **How to reach me: Check the Links Below**  
-
+                                                                             <imgsrc='https://media.giphy.com/media/h408T6Y5GfmXBKW62l/giphy.gif'></img>
 ## Skills
 * 💻 **Programming**    
 * 🎮 **GameDevelopment**         
