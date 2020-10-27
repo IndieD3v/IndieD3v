@@ -4,7 +4,7 @@
 - 💻 **I’m currently learning Django**                                                  
 - 👯 **I’m looking to collaborate on Projects**
 - 📫 **How to reach me: Check the Links Below**  
-                                                                             <img src='https://media.giphy.com/media/h408T6Y5GfmXBKW62l/giphy.gif'></img>
+                                                                             
 ## Skills
 * 💻 **Programming**    
 * 🎮 **GameDevelopment**         
@@ -25,5 +25,6 @@
 <a href="https://www.instagram.com/code.forever/"><img src="https://img.icons8.com/cute-clipart/64/000000/instagram-new.png"/></a>       <a href="https://mail.google.com/"><img src="https://img.icons8.com/plasticine/64/000000/gmail.png"/></a> 
 <a href="https://discord.com/channels/@In Dev"> <img src="https://img.icons8.com/fluent/48/000000/discord-logo.png"/></a>
 
+<img src='https://media.giphy.com/media/h408T6Y5GfmXBKW62l/giphy.gif'></img>
 
 
