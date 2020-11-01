@@ -13,7 +13,7 @@
 
 ## Programming Languages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=indieD3v)](https://github.com/indieD3v/github-readme-stats)<img src='https://media.giphy.com/media/etUjELDRWqRDxSA5Wk/giphy.gif'/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=indieD3v)](https://github.com/indieD3v/github-readme-stats)
 
 
 ## Git Hub Stats
@@ -25,6 +25,7 @@
 <a href="https://www.instagram.com/code.forever/"><img src="https://img.icons8.com/cute-clipart/64/000000/instagram-new.png"/></a>       <a href="https://mail.google.com/"><img src="https://img.icons8.com/plasticine/64/000000/gmail.png"/></a> 
 <a href="https://discord.com/channels/@In Dev"> <img src="https://img.icons8.com/fluent/48/000000/discord-logo.png"/></a>
 
+<img src='https://media.giphy.com/media/etUjELDRWqRDxSA5Wk/giphy.gif'/>
 <img src='https://media.giphy.com/media/loRvdHc5P801s7z5mC/giphy.gif'/>
 
    
