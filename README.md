@@ -25,7 +25,7 @@
 <a href="https://discord.com/channels/@In Dev"> <img src="https://img.icons8.com/fluent/48/000000/discord-logo.png"/></a>
 
 <img src='https://media.giphy.com/media/etUjELDRWqRDxSA5Wk/giphy.gif'/><img src='https://media.giphy.com/media/8WGGqp4w70hEHOPExj/giphy.gif'/>
-<img src='https://media.giphy.com/media/Oj4dgTX3LhtkmgsBqc/giphy.gif'/>                      
+<img src='https://media.giphy.com/media/Oj4dgTX3LhtkmgsBqc/giphy.gif'/><img src='https://media.giphy.com/media/ZauKoNgSMRG12/giphy.gif'/>              
 
 
    
