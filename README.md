@@ -9,7 +9,6 @@
 * 💻 **Programming**                                                                        
 * 🎮 **GameDevelopment**         
 * 🎨 **2D Artist** 
-* ☄️ **3D Artist**
 
 ## Programming Languages
 
@@ -26,7 +25,7 @@
 <a href="https://discord.com/channels/@In Dev"> <img src="https://img.icons8.com/fluent/48/000000/discord-logo.png"/></a>
 
 <img src='https://media.giphy.com/media/etUjELDRWqRDxSA5Wk/giphy.gif'/><img src='https://media.giphy.com/media/kv7mW8wf26Z73lFZI0/giphy.gif'/>
-<img src='https://media.giphy.com/media/loRvdHc5P801s7z5mC/giphy.gif'/>
+<img src='https://media.giphy.com/media/g4XpaNDYcHLUeuaPSZ/giphy.gif'/>
 
 
    
