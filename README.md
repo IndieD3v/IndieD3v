@@ -24,8 +24,5 @@
 <a href="https://www.instagram.com/code.forever/"><img src="https://img.icons8.com/cute-clipart/64/000000/instagram-new.png"/></a>       <a href="https://mail.google.com/"><img src="https://img.icons8.com/plasticine/64/000000/gmail.png"/></a> 
 <a href="https://discord.com/channels/@In Dev"> <img src="https://img.icons8.com/fluent/48/000000/discord-logo.png"/></a>
 
-<img src='https://media.giphy.com/media/etUjELDRWqRDxSA5Wk/giphy.gif'/><img src='https://media.giphy.com/media/8WGGqp4w70hEHOPExj/giphy.gif'/>
-<img src='https://media.giphy.com/media/Oj4dgTX3LhtkmgsBqc/giphy.gif'/><img src='https://media.giphy.com/media/ZauKoNgSMRG12/giphy.gif'/>              
-
-
+<img src='https://media.giphy.com/media/U1gKujNl88Bu42ZDb4/giphy.gif'/>
    
