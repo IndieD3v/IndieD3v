@@ -1,7 +1,7 @@
 
 # Welcome <img src="https://img.icons8.com/fluent/50/000000/github.png"/>
                                                                                         
-- 💻 **I’m currently learning Django**                                                  
+- 💻 **I’m currently learning Flask**                                                  
 - 👯 **I’m looking to collaborate on Projects**
 - 📫 **How to reach me: Check the Links Below**  
                                                                              
