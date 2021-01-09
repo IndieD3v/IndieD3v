@@ -1,13 +1,12 @@
 
 # Welcome <img src="https://img.icons8.com/fluent/50/000000/github.png"/>
                                                                                         
-- 💻 **I’m currently learning Flask**                                                  
+- 💻 **I’m currently learning Django**                                                  
 - 👯 **I’m looking to collaborate on Projects**
 - 📫 **How to reach me: Check the Links Below**  
                                                                              
 ## Skills
-* 💻 **Programming**                                                                        
-* 🎮 **GameDevelopment**         
+* 💻 **Programming**                                                                              
 * 🎨 **2D Artist** 
 
 ## Programming Languages
