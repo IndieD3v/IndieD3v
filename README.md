@@ -5,7 +5,7 @@
 - 👯 **I’m looking to collaborate on Projects**
 - 📫 **my interest coding, entruprenuership,rocket science,astronomy and buisness.**  
                                                                              
-## Languages
+## Languages and Technologie's
 * **Python**                                                                              
 * **Django** 
 * **HTML**
