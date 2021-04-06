@@ -5,9 +5,11 @@
 - 👯 **I’m looking to collaborate on Projects**
 - 📫 **How to reach me: Check the Links Below**  
                                                                              
-## Skills
-* 💻 **Programming**                                                                              
-* 🎨 **2D Artist** 
+## Languages
+> **Python**                                                                              
+> **Django** 
+> **HTML**
+> **CSS**
 
 ## Programming Languages
 
