@@ -1,15 +1,15 @@
 
 # Welcome <img src="https://img.icons8.com/fluent/50/000000/github.png"/>
                                                                                         
-- 💻 **I’m currently learning Django**                                                  
+- 💻 **Hey im a 16 year old python and fullstack web developer.**                                                  
 - 👯 **I’m looking to collaborate on Projects**
-- 📫 **How to reach me: Check the Links Below**  
+- 📫 **my interest coding, entrepnuersip,rocket science,astronomy and buisness.**  
                                                                              
 ## Languages
-> **Python**                                                                              
-> **Django** 
-> **HTML**
-> **CSS**
+* **Python**                                                                              
+* **Django** 
+* **HTML**
+* **CSS**
 
 ## Programming Languages
 
