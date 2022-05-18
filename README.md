@@ -1,7 +1,7 @@
 
 # Welcome <img src="https://img.icons8.com/fluent/50/000000/github.png"/>
                                                                                         
-- 💻 **Hey im a 16 year old python and fullstack web developer.**                                                  
+- 💻 **Hey im a 17 year old python and fullstack web developer.**                                                  
 - 👯 **I’m looking to collaborate on Projects**
 - 📫 **my interest coding, entruprenuership,rocket science,astronomy and buisness.**  
                                                                              
