@@ -1,7 +1,7 @@
 
 # Welcome <img src="https://img.icons8.com/fluent/50/000000/github.png"/>
                                                                                         
-- 💻 **Hey, I'm a 21-year-old full-stack web developer. Building creative tools & indie products ✍️**
+- 💻 **Hey, I'm a full-stack web developer. Building creative tools & indie products ✍️**
 - Most of my projects are private, so you would barely see any contributions.                                          
                                                                              
 
